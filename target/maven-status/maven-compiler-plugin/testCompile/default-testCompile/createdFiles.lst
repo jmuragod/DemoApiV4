@@ -1,0 +1,4 @@
+com\testcases\Demo1_DELETE_Request.class
+com\testcases\Demo1_POST_Requests.class
+com\testcases\Demo1_PUT_Requests.class
+com\testcases\Demo1_GET_Request.class
